@@ -1,3 +1,2 @@
 #!/bin/bash
-#file /tmp/iamfile
-sudo rm /path/to/swapfile
+file /tmp/iamfile
