@@ -1,5 +1,5 @@
 total 120
-drwxr-xr-x 2 root root 4096 Feb 19 22:57 .
+drwxr-xr-x 2 root root 4096 Feb 19 23:05 .
 drwxr-xr-x 7 root root  214 Feb 19 13:22 ..
 -rwxr--r-- 1 root root   32 Feb 14 00:29 0-hello_world
 -rwxr--r-- 1 root root   54 Feb 14 03:54 100-empty_casks
@@ -25,9 +25,9 @@ drwxr-xr-x 7 root root  214 Feb 19 13:22 ..
 -rwxr--r-- 1 root root   29 Feb 14 00:50 4-lastlines
 -rwxr--r-- 1 root root   29 Feb 14 00:52 5-firstlines
 -rwxr--r-- 1 root root   36 Feb 14 00:56 6-third_line
--rwxr-xr-x 1 root root   99 Feb 19 22:37 7-file
+-rwxr-xr-x 1 root root   99 Feb 19 23:05 7-file
 -rwxr-xr-x 1 root root   42 Feb 19 22:57 8-cwd_state
 -rwxr--r-- 1 root root   37 Feb 14 02:57 9-duplicate_last_line
 -rw-r--r-- 1 root root   12 Feb 19 12:51 *\"Best School"\\*$?*****:
--rwxr-xr-x 1 root root    0 Feb 19 23:00 ls_cwd_content
+-rwxr-xr-x 1 root root    0 Feb 19 23:15 ls_cwd_content
 -rw-r--r-- 1 root root   24 Feb 14 00:28 README.md
